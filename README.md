@@ -16,4 +16,4 @@ A responsive and stylish **Online Calculator** built using **HTML, CSS, and Java
 - **CSS3** – Styling, layout, and design
 - **JavaScript** – Logic and functionality
 
-![Calculator Screenshot]
+![Calculator Screenshot](https://github.com/Manasa-2407/Calculator/blob/main/Screenshot%202025-06-14%20202741.png)
